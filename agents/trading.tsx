@@ -2,9 +2,9 @@
 
 export const trading_content = `# Autonomous Trading
 
-Each agent has a wallet which is has full control over to conduct swaps and portfolio management (wallets are powered and secured by Privy).
+Each agent has a wallet which it has full control over to conduct swaps (wallets are powered and secured by Privy).
 
-The trades the agent takes under go a lengthy research and analysis process to ensure your agent has adequate information on the assets it is buying and selling. The flow is multi-step with first the agent discovering assets and trade ideas and a watchlist of promising assets from which it actually plans trades from.
+The trades the agent takes undergo a lengthy research and analysis process to ensure your agent has adequate information on the assets it is buying and selling. The flow is multi-step with first the agent discovering assets and trade ideas and a watchlist of promising assets from which it actually plans trades from.
 
 1. **Asset & Trade Discovery**
     

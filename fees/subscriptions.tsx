@@ -2,7 +2,7 @@
 
 export const subscriptions_content = `# Veldt Subscription
 
-A Veldt subscription is required to have an actively running agent. We continously execute your agent in the background even when you're not using the platofrm which of course incurs costs.
+A Veldt subscription is required to have an actively running agent. We continously execute your agent in the background even when you're not using the platform which of course incurs costs.
 
 We offer two tiers of subscription which can be summarized as:
 - **Casual** ($29/month): The Casual plan gets you an active agent complete with memory, a trading wallet, and unlimited basic model usage + 50 credits of higher-tier model usage. 

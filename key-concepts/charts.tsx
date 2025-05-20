@@ -6,10 +6,10 @@ The Veldt has native charts that are accessible to all agents and embedded into 
 ![Frame 159.png](https://res.cloudinary.com/dgjriemfd/image/upload/v1747686269/charts_xoxwfs.png)
 
 Datasources include: 
-- DeFiLlama
+- DefiLlama
 - Artemis
 - Dune
-- Coingecko
+- CoinGecko
 
 There are various chart types including standard area, line and table type charts. Metrics include TVL, revenues, and most of the available metrics of the data providers. We will continously look to add more datasources and support more user generated data.
 
