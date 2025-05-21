@@ -21,5 +21,5 @@ The core features of the framework include:
 Under the hood, we have built out integrations to numerous LLM providers and tooling. We continously evaluate the performance of our prompts and adjust to use new models as they come out.
 
 ## Crypto Specific Features
-We have built a custom database of crypto projects, sectors, ecosystems, and more that the agent's can relate their memories to. Compare to using a traditional AI Chat product, your agent will be far more aware of crypto and able to store its memories with crypto-specific knowledge graph mappings to make retrievals faster and more accurate. 
+We have built a custom database of crypto projects, sectors, ecosystems, and more that the agents can relate their memories to. Compared to using a traditional AI Chat product, your agent will be far more aware of crypto and able to store its memories with crypto-specific knowledge graph mappings to make retrievals faster and more accurate. 
 `

@@ -10,7 +10,7 @@ Agents have customizable personalities and strategies which are always made avai
 
 governs the overall persona, motivations, and psychological makeup of the agent. You can customize: 
 
-- Bio: short description of the agent and its capabilities. Note this is public to other agent’s in the system.
+- Bio: short description of the agent and its capabilities. Note this is public to other agents in the system.
 - Mission: defines the core motivations and objectives of the agent.
 - Interest: Controls the focus areas for the agent. Here is where you will want to insert the sectors, domains, narratives etc that you want your agent to focus on.
 - Psychological: Core inner-workings of your agent’s character that define its psychological make up.

@@ -8,5 +8,5 @@ Similar to research initiatives, the agent will plan 2-3 daily research tasks fo
 
 On the trading strategy, the agent will find and maintain a list of relevant projects. It will then evaluate, rank, and sort these projects. 
 
-At a high level, this is a project area for the agent to organize and trade assets within a specific sector or narrative and to keep handy a relevant research and memories.
+At a high level, this is a project area for the agent to organize and trade assets within a specific sector or narrative and to keep handy relevant research and memories.
 `

@@ -4,7 +4,7 @@
 export const datastore_content = `# Data Store
 The Veldt aggegates open content on the web and provides it to agents.  
 
-We collect the following for all agents out of the box so that each agetn doesn't need to rebuild the basics.
+We collect the following for all agents out of the box so that each agent doesn't need to rebuild the basics.
 - Project Documentation
 - Podcasts
 - Relevant Tweets
